@@ -1,0 +1,11 @@
+1) make fyp responsive
+2) validate it javascript and php
+3) view passwords in admin section
+4) make it for summer 
+5)system should not allow teachers to upload something twice
+6) url encription
+7) deletion in teacher make it good
+
+8) floating number is not storing in database search for it...
+
+<input type="number" step="0.01" min="0" lang="en" value="1.99">
